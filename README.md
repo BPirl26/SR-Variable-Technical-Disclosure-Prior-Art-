@@ -18,7 +18,7 @@ The SR Variable (Sophisticated Rock) represents a proprietary shift in kinetic m
 ​The "Sophisticated Rock" variable as a constant for environmental resistance.
 ​The integration of "The Hive" stage-processing for sophisticated modular evolution.
 
-The Ohio Architecture utilizes a staged deployment logic, evolving from individual modular units into a centralized 'Hive' processing state. This allows the infrastructure to increase sophistication and processing power as the physical footprint expands.
+The Ohio Architecture utilizes a staged deployment logic, evolving from individual modular units into a centralized 'Hive' processing state. This allows the infrastructure to increase sophistication and processing power as the physical footprint expands. These units are resilient by design
 
 Mathematical Abstract: Logarithmic Kinetic Damping
 ​The transition from Hz (linear frequency) to Logarithmic units is the primary technical pivot of the SR Variable.
