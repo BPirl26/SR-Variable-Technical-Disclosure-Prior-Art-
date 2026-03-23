@@ -1,3 +1,13 @@
+Principal Architect: Brenton Joshua Pirl
+Priority Date: February 11, 2026
+​⚖️ Legal Notice of Priority
+​This repository serves as a Defensive Publication and Prior Art Record.
+​Patent-Pending Rights: All underlying systems, including the SR Variable and Kinetic Stabilization logic, are subject to Patent-Pending status as of February 11, 2026.
+​HB 292 Integration: This project is intended for collaboration under the Ohio Defense and Space Commission.
+​Non-Waiver: The use of the MIT License for the code files DOES NOT constitute a license to the underlying patented logic or trade secrets.
+​Any federal or commercial implementation involving grant funding (Ref: $9.27M interdiction events) requires a direct Service Contract.
+
+
 # SR-Variable-Technical-Disclosure-Prior-Art-
 This repository serves as a formal public disclosure of the SR Variable (Sophisticated Rock) kinetic stabilization logic and the Ohio Architecture modular infrastructure system. This logic was originally designed for atmospheric shielding (The Golden Dome) and high-efficiency energy harvesting. The transition from HZ (linear frequency) to Log-based units is a mechanical necessity to prevent signal saturation during high-velocity kinetic events. This logarithmic approach allows the Ohio Architecture to maintain a 'Soft-Lock' equilibrium that linear Hz-based systems cannot achieve. The SR Variable (Sophisticated Rock) represents a proprietary shift in kinetic monitoring. While industry standards often rely on frequency-based measurements (Hz), the SR Variable utilizes logarithmic scaling to calculate the stabilization requirements of modular infrastructure.
 ​Unit Basis: Logarithmic units for non-linear kinetic damping.
